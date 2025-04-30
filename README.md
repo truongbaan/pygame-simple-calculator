@@ -30,8 +30,8 @@ If you want to run this project on your local machine, follow these steps:
 3. **Clone the Repository:**
    - Use Git to clone the project repository:
      ```bash
-     git clone <your-repo-link>
-     cd <your-repo-name>
+     git clone https://github.com/truongbaan/pygame-simple-calculator.git
+     cd pygame-simple-calculator
      ```
 
 4. **Run the Program:**
